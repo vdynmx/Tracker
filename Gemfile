@@ -4,7 +4,7 @@ gem 'rails', '4.2.0'
 
 gem 'mongoid', '~> 4.0.0'
 gem 'bson_ext'
-gem 'mongoid_slug'
+gem 'mongoid-slug'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 
 # Use SCSS for stylesheets
